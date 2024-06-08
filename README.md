@@ -1,1 +1,2 @@
 # Calculator-
+This project is a user-friendly calculator application crafted with HTML, CSS, and JavaScript. Designed to facilitate basic arithmetic operations, it offers a straightforward interface for addition, subtraction, multiplication, and division. Ideal for beginners delving into web development, this project showcases the seamless integration of HTML structure, CSS styling, and JavaScript functionality to create an interactive calculator experience
